@@ -15,7 +15,7 @@ const SearchResultsPage = () => {
       return;
     }
 
-    axios.get('http://localhost:3000/api/jobs/')
+    axios.get('https://know-your-worth-js.vercel.app/api/jobs')
       .then(response => {
         const searchJobTitle = jobTitle.toLowerCase();
         const individuals = response.data.filter(individual => individual['Job Title'] && individual['Job Title'].toLowerCase() === searchJobTitle);
