@@ -81,9 +81,7 @@ export default function AppAboutUs() {
             <div>
               <h2>Devun Durst</h2>
               <p>
-              I led the project to build our website, working on both the parts you see (frontend) and the parts that run behind the scenes (backend). I started by drawing the basic layout and deciding how the website should look and feel. Then, I used progrmamming tools Vite and React to make these designs real on the web.
-              For the backend, which is the part of the website that handles data and makes everything work, I used Node.js, Express, and MongoDB. I set up a system to organize and store information, learned how to send data back and forth to the website, and made sure everything ran smoothly.
-              I also built a special feature called a REST API. This lets the front part of the website talk to the back part, so everything the user does, like clicking buttons or filling out forms, works correctly.
+              I led the creation of our website, handling both the part you see and the behind-the-scenes part. First, I sketched out the website's design and used tools called Vite and React to make it look cool online. For the behind-the-scenes part, or backend, I used Node.js, Express, and MongoDB to manage the website's data and keep it running smoothly. I also set up something called a REST API, which helps the visible part and the behind-the-scenes part work together nicely, so everything you do on the website, like clicking buttons or filling out forms, works the way it should.
               </p>
             </div>
           </div>
