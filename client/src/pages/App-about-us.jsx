@@ -64,8 +64,11 @@ export default function AppAboutUs() {
             <div>
               <h2>Logan</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                scelerisque vitae nunc ut dictum. Suspendisse potenti. Vestibulum.
+              As Project Lead for our Salary Prediction Website, I led the creation of a machine 
+              learning model to accurately predict salaries from assignments. My role included 
+              project management and model development. Utilizing innovative data analysis 
+              techniques, I optimized the tool's precision and speed. 
+              I also contributed to find a validad data source. 
               </p>
             </div>
           </div>
@@ -78,8 +81,9 @@ export default function AppAboutUs() {
             <div>
               <h2>Devun Durst</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                scelerisque vitae nunc ut dictum. Suspendisse potenti. Vestibulum.
+              I led the project to build our website, working on both the parts you see (frontend) and the parts that run behind the scenes (backend). I started by drawing the basic layout and deciding how the website should look and feel. Then, I used progrmamming tools Vite and React to make these designs real on the web.
+              For the backend, which is the part of the website that handles data and makes everything work, I used Node.js, Express, and MongoDB. I set up a system to organize and store information, learned how to send data back and forth to the website, and made sure everything ran smoothly.
+              I also built a special feature called a REST API. This lets the front part of the website talk to the back part, so everything the user does, like clicking buttons or filling out forms, works correctly.
               </p>
             </div>
           </div>
@@ -106,8 +110,9 @@ export default function AppAboutUs() {
             <div> 
               <h2>Hunter</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                scelerisque vitae nunc ut dictum. Suspendisse potenti. Vestibulum.
+                I contributed to the backend of our salary prediction website. I help create a rough draft of how our backend would be organized.
+                I worked on debugging errors and documenting our code. I assisted Devun in parts of the connecting of front and backend.
+    
               </p>
             </div>
           </div>
@@ -116,8 +121,9 @@ export default function AppAboutUs() {
             <div>
               <h2>Lincoln</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                scelerisque vitae nunc ut dictum. Suspendisse potenti. Vestibulum.
+                I contributed to part of the backend, especially setting up the API. Following the clear objectives and using 
+                cases right from the start. I also crafted a detailed README file to help guide users through usage of
+                our project "Know Your Worth". The Great Team.
               </p>
             </div>
           </div>
